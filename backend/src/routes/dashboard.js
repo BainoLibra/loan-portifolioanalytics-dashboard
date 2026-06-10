@@ -6,9 +6,11 @@ import {
   getBranchGrowth,
   getPortfolioAtRisk,
 } from '../controllers/dashboardController.js';
+import { authenticateToken } from '../middlewares/auth.js';
 
 const router = express.Router();
 
+router.use(authenticateToken);
 router.get('/summary', getSummary);
 router.get('/defaulting-clients', getDefaultingClients);
 router.get('/top-officers', getTopOfficers);
