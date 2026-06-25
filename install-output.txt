@@ -1,0 +1,251 @@
+﻿
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+
+> install
+> npm install
+
+node.exe : 'npm' is not recognized as an internal or external command,
+At line:1 char:102
++ ... dashboard"; & "C:\Program Files\nodejs\node.exe" "C:\Program Files\no ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ('npm' is not re...ternal command, 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+operable program or batch file.
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_25_21_967Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_25_19_264Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_25_16_535Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_25_13_581Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_25_10_957Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_25_08_250Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_25_05_437Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_25_02_858Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_25_00_066Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_24_57_478Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_24_54_866Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_24_52_452Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_24_50_088Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_24_46_240Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_24_44_018Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_24_41_620Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_24_38_517Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_24_36_150Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_24_33_705Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_24_31_078Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_24_28_514Z-debug-0.log
+npm error code 1
+npm error path C:\Dev\GitHub\loan portifolio analytics 
+dashboard\loan-portifolioanalytics-dashboard
+npm error command failed
+npm error command C:\WINDOWS\system32\cmd.exe /d /s /c npm install
+npm error A complete log of this run can be found in: C:\Users\Baino 
+Libra\AppData\Local\npm-cache\_logs\2026-06-25T03_24_25_471Z-debug-0.log
