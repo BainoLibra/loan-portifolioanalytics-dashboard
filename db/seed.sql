@@ -1,16 +1,4 @@
 USE loan_portfolio;
-
--- ======================================
--- ROLES
--- ======================================
-
-INSERT INTO roles (name)
-VALUES
-('Admin'),
-('Branch Manager'),
-('Loan Officer'),
-('Auditor');
-
 -- ======================================
 -- LOAN PRODUCTS
 -- ======================================
