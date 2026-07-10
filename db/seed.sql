@@ -64,3 +64,20 @@ VALUES
 
 ('Michael Kiiza',      'michael.kiiza@loanportfolio.com',      10, 3),
 ('Rebecca Namugenyi',  'rebecca.namugenyi@loanportfolio.com',  10, 3);
+
+-- =========================================
+-- CLIENTS - LUGAZI BRANCH
+-- =========================================
+
+INSERT INTO clients
+(name, national_id, email, phone, gender, date_of_birth, occupation, address, branch_id, officer_id, status)
+VALUES
+('Alice Namubiru','CM9600112345AB','alice.namubiru@email.com','0701000001','Female','1996-05-12','Retail Trader','Lugazi Town',1,1,'active'),
+
+('Peter Sserwanga','CF9200212345CD','peter.sserwanga@email.com','0701000002','Male','1992-08-19','Farmer','Najjembe',1,1,'active'),
+
+('Sarah Nantongo','CM9800312345EF','sarah.nantongo@email.com','0701000003','Female','1998-11-02','Teacher','Lugazi',1,1,'active'),
+
+('James Kato','CF9000412345GH','james.kato@email.com','0701000004','Male','1990-03-28','Mechanic','Lugazi',1,2,'active'),
+
+('Rebecca Nankya','CM9500512345IJ','rebecca.nankya@email.com','0701000005','Female','1995-07-10','Tailor','Lugazi',1,2,'delinquent');
